@@ -1,0 +1,12 @@
+{
+    "op_sentry_menu_title": "OP Sentry config",
+    "op_sentry_menu_descr": "Configure the OP Sentries",
+    "op_sentries_elem_enabled_title": "Enabled",
+    "op_sentries_elem_enabled_descr": "Enable the modified sentries",
+    "op_sentry_elem_cooldown_title": "Shot cooldown",
+    "op_sentry_elem_cooldown_descr": "The time in seconds the sentry pauses between shots",
+    "op_sentry_elem_reload_title": "Reload duration",
+    "op_sentry_elem_reload_descr": "The time in seconds the sentry takes to reload",
+    "op_sentry_elem_useammo_title": "Use Ammo",
+    "op_sentry_elem_useammo_descr": "Sentries use ammo"
+}
